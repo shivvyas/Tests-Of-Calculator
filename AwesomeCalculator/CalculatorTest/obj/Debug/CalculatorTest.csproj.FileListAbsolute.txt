@@ -1,0 +1,12 @@
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\bin\Debug\CalculatorTest.dll
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\bin\Debug\CalculatorTest.pdb
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\bin\Debug\AwesomeCalculator.exe
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\bin\Debug\nunit.framework.dll
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\bin\Debug\AwesomeCalculator.pdb
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\bin\Debug\AwesomeCalculator.exe.config
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\bin\Debug\nunit.framework.xml
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\obj\Debug\CalculatorTest.csprojAssemblyReference.cache
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\obj\Debug\CalculatorTest.csproj.CopyComplete
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\obj\Debug\CalculatorTest.dll
+D:\SQATE\Software Testing Methodologies\AwesomeCalculator\AwesomeCalculator\CalculatorTest\obj\Debug\CalculatorTest.pdb
